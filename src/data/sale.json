@@ -1,0 +1,17 @@
+[
+  {
+    "discount": "25",
+    "color": "green",
+    "img": "/images/shoes1mini.png"
+  },
+  {
+    "discount": "45",
+    "color": "red",
+    "img": "/images/shoes2.png"
+  },
+  {
+    "discount": "15",
+    "color": "black",
+    "img": "/images/shoes3.png"
+  }
+]
